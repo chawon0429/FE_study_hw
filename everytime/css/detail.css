@@ -874,3 +874,8 @@ span.on {
   font-weight: 500;
   color: #f91f15;
 }
+@media all and (max-width:640px) {
+  aside{
+    display: none;
+  }
+}
